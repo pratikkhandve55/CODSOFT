@@ -1,7 +1,7 @@
-# CodeSoft
+# CodSoft
 # Credit Card Fraud Detection
 
-This project is part of the CodeSoft Virtual Internship ML Task.  
+This project is part of the CodSoft Virtual Internship ML Task.  
 It uses a Random Forest Classifier to detect fraudulent credit card transactions.
 
 ## Dataset
